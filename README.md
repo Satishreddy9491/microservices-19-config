@@ -1,1 +1,2 @@
-# microservices-19-config
+# microservices-config
+Central repository configurations 
